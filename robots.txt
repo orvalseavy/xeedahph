@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pudeetood.spncr.dev/sitemap.xml
